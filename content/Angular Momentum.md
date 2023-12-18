@@ -1,35 +1,35 @@
 Momentum also has a [[Rotational Motion]] analog, Angular momentum $L$:
 $$
-\begin{align}
+\begin{align*}
 \vec{L}=\vec{I}\times\vec{\omega} \\
  \\
 \vec{L}=I\omega \sin (\theta)
-\end{align}
+\end{align*}
 $$
 Newton's Law can be written as
 $$
-\begin{align}
+\begin{align*}
 F&=ma \\
 F&=\frac{ dp }{ dt } 
-\end{align}
+\end{align*}
 $$
 Similarly:
 $$
-\begin{align}
+\begin{align*}
 \tau&=I\omega \\
 \tau&=\frac{ dL }{ dt } 
-\end{align}
+\end{align*}
 $$
 We can derive this:
 $$
-\begin{align}
+\begin{align*}
 \frac{ d\vec{l} }{ dt }&=\frac{d}{dt} (\vec{r}\times \vec{p})  \\
 &=\frac{ d\vec{r} }{ dt } \times \vec{p}+\vec{r}\times \frac{ d\vec{p} }{ dt }  \\
 &=(\vec{v}+m\vec{v})+\vec{r}\times \frac{ d\vec{p} }{ dt }  \\
 \vec{v}\times m\vec{v}=0 \\
 &=\vec{r}+\sum\vec{F} \\
 &=\tau
-\end{align}
+\end{align*}
 $$
 The analogy from translational to rotational carries over in other ways.
 

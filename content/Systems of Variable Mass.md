@@ -6,23 +6,23 @@ We can call our full system of the cannon, cart, and cannonballs $S'$ and call o
 
 Lets also introduce an external force such as drag to give a more general equation. For a change in time $\Delta t$, the change of momentum for $S'$ can be represented as:
 $$
-\begin{align}
+\begin{align*}
 &\Delta \vec{P}=\vec{P}_{f}-\vec{P}_{i} \\ \\
 
 &\vec{P}_{i}=M\vec{v} \\
 &\vec{P}_{f}=(M+\Delta M)(\vec{v}+\Delta \vec{v})+(-\Delta M)u \\
  \\
 &\Delta \vec{P}=(M+\Delta M)(\vec{v}+\Delta \vec{v})+(-\Delta M)u-M\vec{v}
-\end{align}
+\end{align*}
 $$
 We can calculate for external force from here:
 $$
-\begin{align}
+\begin{align*}
 \Sigma \vec{F}_{\mathrm{ext}}&=\lim_{ \Delta t \to 0 } \frac{\Delta \vec{P}}{\Delta t} \\
 &=\lim_{ \Delta t \to 0 } \frac{(M+\Delta M)(\vec{v}+\Delta \vec{v})+(-\Delta M)u-M\vec{v}}{\Delta t} \\
 &=\lim_{ \Delta t \to 0 } \left[ M \frac{\Delta \vec{v}}{\Delta t}+(\vec{v}+\vec{u}) \frac{\Delta M}{\Delta t}+\Delta \vec{v} \frac{\Delta M}{\Delta t} \right] \\
 &=M\frac{ d\vec{v} }{ dt }  + (\vec{v}+\vec{u})\frac{ dM }{ dt } 
-\end{align}
+\end{align*}
 $$
 rewritten as:
 $$

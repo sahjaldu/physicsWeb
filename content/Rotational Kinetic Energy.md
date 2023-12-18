@@ -6,11 +6,11 @@ Where $I$ is [[Rotational Inertia or Moment of Inertia]].
 
 We can derive this:
 $$
-\begin{align}
+\begin{align*}
 \mathrm{KE}&=\frac{1}{2}mv^2 \\
 &=\frac{1}{2}mr^2\omega^2 \\
 &=\frac{1}{2}I\omega^2
-\end{align}
+\end{align*}
 $$
 For an object experiencing both translational and rotational motion, such as a circle rolling down a slope, the kinetic energy is just the combination of both.
 $$

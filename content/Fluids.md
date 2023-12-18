@@ -15,11 +15,10 @@ F=mg=(\rho V)g=\rho Ahg
 $$
 Applying that to the pressure equation, $P=F / A$:
 $$
-\begin{align}
-P&=\frac{F}{A}=\frac{\rho Ahg}{A}\\ \\
-
+\begin{align*}
+P&=\frac{F}{A}=\frac{\rho Ahg}{A}\\
 P&=\rho gh
-\end{align}
+\end{align*}
 $$
 We find that the area of the plane doesn't matter in this situation. This is because underneath a liquid, increasing the area would mean increasing the amount of space available for the liquid to press down, so the ratio of force per area stays the same. 
 

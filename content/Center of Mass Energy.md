@@ -19,14 +19,14 @@ $$
 $$
 And then to from state initial $i$ to state final $f$:
 $$
-\begin{align}
+\begin{align*}
 \int _{x_{i}}^{x_{f}} \vec{F}_{\mathrm{ext}}dx_{\mathrm{cm}}\, dx_{\mathrm{cm}}
 &=\int _{v_{i}}^{v_{f}}Mv_{\mathrm{cm}} \, dv_{\mathrm{cm}} \\
 &=\frac{1}{2}Mv_{\mathrm{cm, f}}^2-\frac{1}{2}Mv_{\mathrm{cm, i}}^2 \\
 &=\Delta K_{\mathrm{cm}} \\
 \\ \\
-\Aboxed{F_{\mathrm{ext}}s_{\mathrm{cm}}&=\Delta K_{\mathrm{cm}}}
-\end{align}
+F_{\mathrm{ext}}s_{\mathrm{cm}}&=\Delta K_{\mathrm{cm}}
+\end{align*}
 $$
 While this is similar to the [[Work-Energy Theorem]] equation, it is not exactly it. For example, $dx_{\mathrm{cm}}$ and $s_{\mathrm{cm}}$  don't represent the displacement of the point of application of the external force (the railing).
 

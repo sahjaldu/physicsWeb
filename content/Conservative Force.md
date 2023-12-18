@@ -12,15 +12,15 @@ Thought differently, if you move up, then return down again under the force of g
 
 Mathematically:
 $$
-\begin{align}
+\begin{align*}
 W_{ab}-W_{ba}&=0\\
 W_{ab}&=W_{ba}
-\end{align}
+\end{align*}
 $$
 Or:
 $$
-\begin{align}
+\begin{align*}
 \int _{a}^b \vec{F}\cdot \, d\vec{s}+\int _{b}^a \vec{F}\cdot \, d\vec{s}&=0 \\
 \int _{a}^b \vec{F}\cdot \, d\vec{s}&=\int _{b}^a \vec{F}\cdot \, d\vec{s}
-\end{align}
+\end{align*}
 $$

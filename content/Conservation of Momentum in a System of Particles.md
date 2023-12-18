@@ -1,9 +1,9 @@
 If we have a system with $N$ particles with masses $m_{n}$, velocities $\vec{v}_{n}$, and momenta $\vec{p}_{n}=m_{n}v_{n}$, the total momentum is:
 $$
-\begin{align}
+\begin{align*}
 \vec{P}&=\sum_{n=1}^N\vec{p}_{n} \\
 &=\sum^N_{n=1}m_{n}\vec{v}_{n}
-\end{align}
+\end{align*}
 $$
 or:
 $$
@@ -25,10 +25,10 @@ $$
 $$
 In the reference frame of the center-of-mass, the total momentum is
 $$
-\begin{align}
+\begin{align*}
 \vec{P}'&=\sum_{n=1}^Nm_{n}\vec{v}'_{n}=\sum_{n=1}^Nm_{n}\vec{v}_{n}-\sum_{n=1}^Nm_{n}\vec{v}_{\mathrm{cm}} \\
 &=\sum_{n=1}^NM\vec{v}_{n}-\vec{v}_{\mathrm{cm}}\sum_{n=1}^Nm_{n} \\
 &=M\vec{v}_{\mathrm{cm}}-\vec{v}_{\mathrm{cm}}M=0
-\end{align}
+\end{align*}
 $$
 In the center-of-mass reference frame, the total momentum is zero.

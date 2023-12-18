@@ -1,9 +1,9 @@
 The torque due to gravity is:
 $$
-\begin{align}
+\begin{align*}
 \vec{\tau}&=\vec{F}\times \vec{r} \\
 &=M\vec{g}\times \vec{r}
-\end{align}
+\end{align*}
 $$
 However, when the center of gravity does not coincide with the center of mass, this is not true.
 

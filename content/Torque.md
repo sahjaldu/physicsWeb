@@ -12,22 +12,22 @@ $$
 $$
 We can also reason that:
 $$
-\begin{align}
+\begin{align*}
 F&=ma \\
 &=mr\alpha \\
  \\
 \vec{\tau}&=\vec{r}\vec{}F=\vec{r}(mr\alpha) \\
 &=mr^2\vec{\alpha}
-\end{align}
+\end{align*}
 $$
 The quantity $mr^2$ represents the [[Rotational Inertia or Moment of Inertia]], $I$.
 
 We can see the similarity:
 $$
-\begin{align}
+\begin{align*}
 \vec{F}&=m\vec{a} \\
 \vec{\tau}&=I\vec{\alpha}
-\end{align}
+\end{align*}
 $$
 Using [[Angular Momentum]], know that:
 $$

@@ -11,39 +11,39 @@ M=\sum m_{n}
 $$
 Where the position is $\mathbf{\vec{r}_{cm}}$:
 $$
-\begin{align}
+\begin{align*}
 \vec{r}_{cm}&=\frac{m_{1}\vec{r}_{1}+m_{2}\vec{r}_{2}+\dots+m_{N}\vec{r}_{N}}{m_{1}+m_{2}+\dots+m_{N}}\\
 &=\frac{1}{M}\sum m_{n}\vec{r}_{N}
-\end{align}
+\end{align*}
 $$
 In components:
 $$
-\begin{align}
+\begin{align*}
 x_{cm}&=\frac{1}{M}\sum m_{n}\vec{x}_{N} \\
 x_{cm}&=\frac{1}{M}\sum m_{n}\vec{x}_{N}\\
 z_{cm}&=\frac{1}{M}\sum m_{n}\vec{z}_{N}
-\end{align}
+\end{align*}
 $$
 Which we can use to find the velocity of center of mass:
 $$
-\begin{align}
+\begin{align*}
 \vec{v}=\frac{ d\vec{r}_{cm} }{ dt } &=\frac{m_{1}\vec{v}_{1}+m_{2}\vec{v}_{2}+\dots+m_{N}\vec{v}_{N}}{m_{1}+m_{2}+\dots+m_{N}}\\
 &=\frac{1}{M}\sum m_{n}\vec{v}_{N}
-\end{align}
+\end{align*}
 $$
 And the acceleration of center of mass:
 $$
-\begin{align}
+\begin{align*}
 \vec{a}=\frac{ d\vec{v}_{cm} }{ dt } &=\frac{m_{1}\vec{a}_{1}+m_{2}\vec{a}_{2}+\dots+m_{N}\vec{a}_{N}}{m_{1}+m_{2}+\dots+m_{N}}\\
 &=\frac{1}{M}\sum m_{n}\vec{a}_{N}
-\end{align}
+\end{align*}
 $$
 Which can be rewritten as:
 $$
-\begin{align}
+\begin{align*}
 M\vec{a}_{cm}&=m_{1}\vec{a}_{1}+m_{2}\vec{a}_{2}+\dots m_{N}\vec{a}_{N} \\
 =&\sum\vec{F}_{1}+\sum\vec{F}_{2}+\dots\sum\vec{F}_{N}
-\end{align}
+\end{align*}
 $$
 Which is also just:
 $$

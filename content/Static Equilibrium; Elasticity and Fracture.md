@@ -42,11 +42,11 @@ $$
 $$
 Where $E$ in whichever modulus we are using. This can be rewritten using stress and strain:
 $$
-\begin{align}
+\begin{align*}
 \frac{\Delta l}{l_{0}}E=\frac{F}{A} \\
 E=\frac{F / A}{\Delta l / l_{0}} \\
 E=\frac{\mathrm{stress}}{\mathrm{strain}}
-\end{align}
+\end{align*}
 $$
 to calculate our Elastic Modulus.
 
@@ -57,8 +57,8 @@ $$
 
 For Bulk Modulus, it isn't the length that is changing but the volume. Our stress becomes [[Pressure]] and our strain becomes a change in volume. Our equation:
 $$
-\begin{align}
+\begin{align*}
 \frac{\Delta V}{V_{0}}=-\frac{1}{B}\Delta P \\
 B=- \frac{\Delta P}{\Delta V / V}
-\end{align}
+\end{align*}
 $$

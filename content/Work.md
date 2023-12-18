@@ -28,11 +28,12 @@ W=\int _{i}^{f}\vec{F}\cdot \, d\vec{s}
 $$
 For [[Rotational Motion]], for a rotation from $\theta_{i}$ to $\theta_{f}$, work is:
 $$
-\begin{align}
+\begin{align*}
 dW&=(F\sin\theta)ds \\
 &=(F\sin\theta)(r\ d\theta) \\
 &=(rF\sin\theta)d\theta \\
-\end{align}
+W&=\int_{\theta_{i}}^{\theta_{f}}\vec{\tau} \cdot \vec{\theta} \\
+\end{align*}
 $$
 [[Work Done on a System By External Forces]]
 [[Frictional Work]]

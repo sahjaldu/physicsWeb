@@ -19,12 +19,12 @@ Since we are only focusing on direction and not magnitude, we will have it be di
 
 We can calculate the magnitude of centripetal acceleration. Take $\Delta\theta$ and $\Delta t$ to be extremely small and $v=v_{1}=v_{2}$ since the magnitude does not change (note that $v$ does not have an arrow—this is a magnitude), we can write:
 $$
-\begin{align}
+\begin{align*}
 \frac{\Delta v}{v}&\approx \frac{\Delta l}{r} \\
 \Delta v&=\frac{v}{r}\Delta l \\
  \\
 a_{r}&=\frac{\Delta v}{\Delta t}=\frac{v}{r} \frac{\Delta l}{\Delta t}=\frac{v}{r}v \\ \\
 a_{r}&=\frac{v^2}{r} \\
-\end{align}
+\end{align*}
 $$
 Using centripetal acceleration, we can get a [[Centripetal Force]].

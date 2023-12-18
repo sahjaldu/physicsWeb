@@ -2,7 +2,7 @@ We can use the law of [[Conservation of Energy]] for analyzing reaction and deca
 $$
 \ce{n + ^{6}Li -> ^{4}He + ^{3}H }
 $$
-> ""...a neutron is incident on a nucleus of lithium with a mass number (total number of protons + neutrons) of 6, containing three protons and three neutrons. After the reaction, the particles observed are a nucleus of helium with a mass number of 4 (two protons and two neutrons) and a nucleus of hydrogen with a mass number of 3 (one proton and two neutrons)."
+> "...a neutron is incident on a nucleus of lithium with a mass number (total number of protons + neutrons) of 6, containing three protons and three neutrons. After the reaction, the particles observed are a nucleus of helium with a mass number of 4 (two protons and two neutrons) and a nucleus of hydrogen with a mass number of 3 (one proton and two neutrons)."
 
 [[Physics-1-5E--David-Halliday--Robert-Resnick.pdf#page=305&selection=3,9,13,54|Physics-1-5E--David-Halliday--Robert-Resnick, page 305]]
 

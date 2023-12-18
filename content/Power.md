@@ -14,18 +14,18 @@ The $\mathrm{SI}$ unit for power is the Joule per second, or Watt($\mathrm{W}$).
 
 Power can also be defined as:
 $$
-\begin{align}
+\begin{align*}
 P&=\frac{ dW }{ dt } \\
 &=\frac{\vec{F}\cdot d\vec{s}}{dt} \\
 &=\vec{F}\frac{ d\vec{s} }{ dt }  \\
 P&=\vec{F}\cdot \vec{v}
-\end{align}
+\end{align*}
 $$
 For [[Rotational Motion]]:
 $$
-\begin{align}
+\begin{align*}
 P&=\frac{ dW }{ dt } \\
 &=\frac{\tau \cdot d\theta}{dt} \\
-\Aboxed{P&=\tau \cdot\omega}
-\end{align}
+P&=\tau \cdot\omega
+\end{align*}
 $$

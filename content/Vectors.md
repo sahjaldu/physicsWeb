@@ -33,7 +33,7 @@ We usually use the first notation in exercises
 
 In general, whenever we add two vectors, we add their corresponding components.
 $$
-(\color{b-red} a, b, c) + (A, B, C)= (a+A, \ b+B, \ c+C)
+(a, b, c) + (A, B, C)= (a+A, \ b+B, \ c+C)
 $$
 We can visualize this as:
 

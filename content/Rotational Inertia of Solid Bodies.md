@@ -6,11 +6,11 @@ I=\sum r_{n}^2\delta m_{n}
 $$
 If we make the size of each mass element smaller and smaller, we can transition to calculus:
 $$
-\begin{align}
+\begin{align*}
 I=\lim_{ \delta m_{n} \to 0 } \sum r_{n}^2\delta m_{n} \\
  \\
 \boxed{I=\int r^2 \, dm} 
-\end{align}
+\end{align*}
 $$
 We can use this to create varying formulas for different types of solid bodies.
 
@@ -22,7 +22,7 @@ We can use this to create varying formulas for different types of solid bodies.
 
 The rod has a length $L$, cross-sectional area $A$, and uniform density $\rho$.
 $$
-\begin{align}
+\begin{align*}
 dV=Adx \\
 dm=\rho\ dV=\rho A\ dx \\
 \rho=\frac{M}{V} =\frac{M}{AL} \\
@@ -32,7 +32,7 @@ I=\int r^2 \, dm=\int x^2\rho A \, dx =\int x^2 \frac{M}{AL} A \, dx=\frac{M}{L}
 I=\frac{M}{L}\int _{-L/2}^{+L/2}x^2 \, dx =\frac{m}{L} \frac{x^3}{3} \Big \rvert_{-L / R}^{+L / 3} \\
  \\
 \boxed{I=\frac{1}{12}ML^2}
-\end{align}
+\end{align*}
 $$
 If we want to rotate the rod about its end, use the [[Parallel Axis Theorem]] substituting this for $I_{\mathrm{cm}}$.
 $$
@@ -51,10 +51,10 @@ $$
 $$
 The rotational inertia $dI$ of a strip about its [[Center of Mass]] is $dI_{\mathrm{cm}}=\frac{1}{12}dm\ a^2$:
 $$
-\begin{align}
+\begin{align*}
 dI&=dI_{\mathrm{cm}}+dm\ h^2 \\
 &=\frac{1}{12}dm\ a^2+dm\ x^2
-\end{align}
+\end{align*}
 $$
 Substituting $dm$ for $M$ and $dx$ for $b$:
 $$

@@ -7,20 +7,20 @@ $$
 $$
 Broken up into $x$ and $y$:
 $$
-\begin{align}
+\begin{align*}
 x_{\mathrm{cm}}=\frac{m_{1}x_{1}+m_{2}x_{2}}{m_{1}+m_{2}} \\
  \\
 y_{\mathrm{cm}}=\frac{m_{1}y_{1}+m_{2}y_{2}}{m_{1}+m_{2}}
-\end{align}
+\end{align*}
 $$
 We can then find the velocity and acceleration using the center of mass:
 $$
-\begin{align} \\
+\begin{align*} \\
 \vec{v}_{cm}&=\frac{d\vec{r}_{cm}}{dt}=\frac{m_{1}\frac{ d\vec{r}_{1} }{ dt } + m_{2}\frac{ d\vec{r}_{2} }{ dt }}{m_{1}+m_{2}} \\
 &=\frac{m_{1}v_{1}+m_{2}v_{2}}{m_{1}+m_{2}} \\ \\
 \vec{a}_{cm}&=\frac{ d\vec{v}_{cm} }{ dt }=\frac{m_{1}\frac{ d\vec{v}_{1} }{ dt } + m_{2}\frac{ d\vec{v}_{2} }{ dt }}{m_{1}+m_{2}} \\
 &=\frac{m_{1}a_{1}+m_{2}a_{2}}{m_{1}+m_{2}} \\
 &=\frac{\vec{F}_{1r}+\vec{F}_{2r}}{m_{1}+m_{2}}
-\end{align}
+\end{align*}
 $$
 Where $\vec{F}_{1r}$ and $\vec{F}_{2r}$ is force on $m_{1}$ and $m_{2}$ due to the rod. Through this process, we can get more information about the baton and how it moves.

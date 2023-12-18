@@ -18,18 +18,18 @@ $$
 $$
 We can translate both of these to linear using:
 $$
-\begin{align}
+\begin{align*}
 v&=r\omega \\
 a&=r\alpha \\
-\end{align}
+\end{align*}
 $$
 because:
 $$
-\begin{align}
+\begin{align*}
 v&=\frac{\Delta l}{\Delta t}=r\frac{\Delta\theta}{\Delta t}=r\omega \\
  \\
 v&=\frac{\Delta v}{\Delta t}=r\frac{\Delta\omega}{\Delta t}=r\alpha
-\end{align}
+\end{align*}
 $$
 For both $\omega$ and $\alpha$, the magnitude may stay the same, but the direction will always be changing.
 
@@ -54,11 +54,11 @@ Angular quantities are vectors, and to define their direction, we use the [[Righ
 
 We can relate the frequency as angular velocity over distance:
 $$
-\begin{align}
+\begin{align*}
 f=\frac{\omega}{2\pi} \\
  \\
 \omega=2\pi f
-\end{align}
+\end{align*}
 $$
 Here are the angular [[Kinematic Equations]].
 
