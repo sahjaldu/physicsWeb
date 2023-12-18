@@ -32,7 +32,7 @@ $$
 dW&=(F\sin\theta)ds \\
 &=(F\sin\theta)(r\ d\theta) \\
 &=(rF\sin\theta)d\theta \\
-\Aboxed{W&=\int _{\theta_{i}}^{\theta_{f}}\vec{\tau} \cdot \vec{\theta} }
+\Aboxed{W&=\int_{\theta_{i}}^{\theta_{f}}\vec{\tau} \cdot \vec{\theta} }
 \end{align}
 $$
 [[Work Done on a System By External Forces]]
