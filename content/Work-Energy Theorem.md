@@ -1,10 +1,10 @@
 The relationship between [[Work]] and [[Energy]] can be shown by:
 $$
-\begin{align}
+\begin{align*}
 W_{\mathrm{net}}&=\vec{F}_{\mathrm{net}}\cdot \vec{s}=m\vec{a}\cdot \vec{s}=m\frac{(\vec{v}_{f}-\vec{v}_{i})}{\Delta v}\cdot \frac{(\vec{v}_{f}+\vec{v}_{i})\Delta t}{2}\\
 &=\frac{1}{2}mv^2_{f}-\frac{1}{2}mv^2_{i} \\
 &=\Delta K
-\end{align}
+\end{align*}
 $$
 Work is the change in [[Kinetic Energy]].
 >[!Definition]
