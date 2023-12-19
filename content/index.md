@@ -5,7 +5,7 @@ title: Home Page
 
 Welcome to PhysicsWeb, a place where I will be storing my physics notes for the public to use. This website was created using [Quartz](https://quartz.jzhao.xyz/), which was made by [Jacky Zhao](https://jzhao.xyz/). Shoutout to Atramentis and Jacky who helped me set up this site.
 
-This website is primarily navigated through links connecting pages together. There is also a graph view in this page for an alternative view. This website is incomplete, so make sure to visit in the future (and reload) for more.
+This website is primarily navigated through links connecting pages together. There is also a graph view in this page for an alternative view. This website is in progress, so make sure to visit in the future (and reload) for more.
 
 ## Topics:
 
