@@ -1,6 +1,7 @@
 To find our [[Center of Mass]], we set up a coordinate system in the horizontal plane. Particle 1 will be our less massive knob at the end of the baton and Particle 2 will be our more massive know at the other end of our baton.
 
 ![[Drawing 2023-12-10 16.27.26.excalidraw|center]]
+
 Vectors $\mathbf{\vec{r}}_{1}$ and $\mathbf{\vec{r}}_{2}$ represent the position of $m_{1}$ and $m_{2}$.
 $$
 \mathbf{\vec{r}}_{\mathrm{cm}}=\frac{m_{1}\mathbf{\vec{r}}_{1}+m_{2}\mathbf{\vec{r}}_{2}}{m_{1}+m_{2}}
