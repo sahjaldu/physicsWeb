@@ -9,15 +9,14 @@ This website is primarily navigated through links connecting pages together. The
 
 ## Topics:
 
-[[Systems of Particles]]
-[[Rotational Motion]]
-[[Static Equilibrium; Elasticity and Fracture]]
-[[Work, Power, and Energy]]
-[[Fluids]]
-
+1. [[Systems of Particles]]
+2. [[Rotational Motion]]
+3. [[Static Equilibrium; Elasticity and Fracture]]
+4. [[Work, Power, and Energy]]
+5. [[Fluids]]
 
 [[Sources]]
-
+[[Updates]]
 ## Prerequisites:
 
 In order to properly use this website, you need to have to have taken an introductory physics class and know calculus.

@@ -37,8 +37,7 @@ $$
 $$
 We can visualize this as:
 
-![[Drawing 2023-11-12 17.59.19.excalidraw|700]]
-
+![[Pasted image 20231219230124.png]]
 
 
 ## Scalar Multiplication
@@ -112,7 +111,7 @@ One interpretation of the length of $\vec{c}$ is very useful.
 
 ![[Pasted image 20231112220351.png]]
 
-The base of the parallelogram has length $\lvert \lvert \vec{a} \rvert \rvert$ and the height has length $\lvert \lvert  \vec{b} \rvert \rvert$. The area of the parallelogram is the magnitude of the cross product (base times height).
+The base of the parallelogram has length $\lvert \lvert \vec{a} \rvert \rvert$ and the height has length $\lvert \lvert  \vec{b} \rvert \rvert$. The area of the parallelogram is the magnitude of the cross product (base times height). ^7e23b8
 
 ### The Right-hand Rule
 

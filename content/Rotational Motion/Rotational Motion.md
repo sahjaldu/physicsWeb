@@ -43,8 +43,7 @@ a=\sqrt{ a_{\tan}^2 + a^2_{R}}
 $$
 We can also find $\theta$ using these two values. We can form a triangle:
 
-![[Drawing 2023-12-05 21.21.38.excalidraw]]
-
+![[Pasted image 20231219231107.png]]
 $$
 \theta=\tan^{-1}\left( \frac{a_{\tan}}{a_{R}} \right)
 $$

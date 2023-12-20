@@ -2,7 +2,7 @@ This says that an external pressure applied to a confined fluid is transmitted t
 
 For example, we can use this for hydraulic systems.
 
-![[Drawing 2023-12-06 23.30.49.excalidraw|500]]
+![[Pasted image 20231219231025.png]]
 
 For this system,
 $$
