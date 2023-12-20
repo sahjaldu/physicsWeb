@@ -61,5 +61,5 @@ For solid objects, rather than taking every single particle in the object can be
 $$
 \vec{r}_{\mathrm{cm}}=\frac{1}{M}\int \vec{r} \, dm 
 $$
-[[Center of Mass Problem — Circle with Hole]]
+[[Center of Mass Problem - Circle with Hole]]
 [[Center of Mass Energy]]
