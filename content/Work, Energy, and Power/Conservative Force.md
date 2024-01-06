@@ -1,6 +1,6 @@
 > Consider the work done by a force that acts on an object as the object moves from an initial position to a final position along any arbitrarily chosen path. If this work is the same for all such paths, we call the force a conservative force. If the work is not the same for all paths, we call the force a nonconservative force.
 
-[[Physics-1-5E--David-Halliday--Robert-Resnick.pdf#page=275&selection=35,0,43,49|Physics-1-5E--David-Halliday--Robert-Resnick, page 275]]
+(Physics 5th Edition, Resnick, Halliday, Krane, page 275)
 
 For example, gravity is a conservative force. No matter what path you take, the [[Work]] done will always be:
 $$

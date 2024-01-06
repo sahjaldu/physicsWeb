@@ -1,6 +1,6 @@
-> Heat is a means of energy transfer between a system and its environment because of the temperature differ- ence between them.
+> Heat is a means of energy transfer between a system and its environment because of the temperature difference between them.
 
-[[Physics-1-5E--David-Halliday--Robert-Resnick.pdf#page=306&selection=392,0,394,18|Physics-1-5E--David-Halliday--Robert-Resnick, page 306]]
+(Physics 5th Edition by Halliday, Resnick and Krane, page 306)
 
 We represent heat as $Q$ measured in energy units.
 
