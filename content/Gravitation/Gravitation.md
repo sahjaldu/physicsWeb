@@ -61,4 +61,4 @@ The distance $r$ from $m_1$ to $m_2$ is from the center of each mass, not its su
 
 [[Escape Speed]]
 
-[[The Motions of Planets and Satellites]
+[[The Motions of Planets and Satellites]]
