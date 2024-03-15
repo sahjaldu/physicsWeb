@@ -8,5 +8,5 @@ When the density of the object is greater than that of the fluid, the volume of 
 ![[Pasted image 20240131224729.png|center|200]]
 Alternatively, when the density of the object is less than that of the fluid, the volume of water than it displaces is greater than its own weight. As a result, it floats. Its weight $m\vec{g}$ is less than the buoyant force $\vec{F}_{b}$.
 ![[Pasted image 20240131224925.png|center|200]]
-The buoyant force acts at the [[Center of Gravity]] of the submerged portion of the object. This point is known as the [[Center of Buoyancy]]. When the Center of Gravity and the Center of Buoyancy are not vertical, the submerged object may tilt.
+The buoyant force acts at the [[Center of Gravity]] of the submerged portion of the object. This point is known as the [[Center of Buoyancy]]. When the Center of Gravity and the Center of Buoyancy are not vertical, the submerged object will tilt.
 ![[Pasted image 20240131225824.png|center|200]]
