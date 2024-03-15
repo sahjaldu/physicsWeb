@@ -13,8 +13,6 @@ An object in static equilibrium is either:
 
 We typically want stable equilibrium. To do that, the center of gravity should typically be underneath its point of support.
 
-[[Hooke's Law]]
-
 **Hooke's Law** says that the change in length of an object is proportional to the applied force:
 $$
 F=k\Delta l

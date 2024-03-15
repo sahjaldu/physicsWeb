@@ -81,7 +81,7 @@ F&=\frac{GmM}{4Rr^2} \int^{r+R}_{r-R} \frac{r^2-R^2+x^2}{x^2} \, dx  \\
 $$
 Where $r$ is the radius from the center of the shell, proving shell theorem 1.
 
-When we apply the method method above for $r<R$, note that $R-r=r+R=0$.
+When we apply the method method above for $r<R$, note that $R-r=0$.
 
 ![[Pasted image 20231221204638.png|center]]
 

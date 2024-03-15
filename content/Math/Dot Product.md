@@ -21,7 +21,7 @@ $$
 \vec{b}=(b_{1}, b_{2}, b_{3})
 $$
 $$
-\vec{a} \cdot  \vec{b} = a_{1}b_{1} + a_{2} + b_{2} + a_{3}b_{3}
+\vec{a} \cdot  \vec{b} = a_{1}b_{1} + a_{2}  b_{2} + a_{3}b_{3}
 $$
 
 This formula extends to vectors of any length.
