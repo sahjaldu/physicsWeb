@@ -1,0 +1,2 @@
+The center of buoyancy is the [[Center of Gravity]] of a portion of an object submerged in a fluid. When the Center of Gravity and the Center of Buoyancy are not vertical, a submerged object may tilt.
+![[Pasted image 20240131225824.png|center|200]]
