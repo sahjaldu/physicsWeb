@@ -2,6 +2,7 @@
 ## 3/14/34
 - Updated fluids
 - Fixed typos and incorrect information.
+- Centered images and unrounded links
 ## 1/6/24
 - Added a contact email.
 - Added Gravitation Section.

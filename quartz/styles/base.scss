@@ -67,7 +67,7 @@ a {
     text-decoration: none;
     background-color: var(--highlight);
     padding: 0 0.1rem;
-    border-radius: 5px;
+    border-radius: 0px;
     line-height: 1.4rem;
 
     &:has(> img) {
@@ -449,9 +449,15 @@ img {
   margin: 1rem 0;
 }
 
-p > img + em {
+p > em {
   display: block;
   transform: translateY(-1rem);
+}
+
+p > img {
+  display: block;
+  // transform: translateY(-1rem);
+  margin: 1rem auto 0 auto;
 }
 
 hr {
