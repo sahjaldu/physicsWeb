@@ -22,8 +22,8 @@ Because [[Fluids]] do not retain a shape, they cannot sustain forces parallel to
 
 [[Pressure]] is the magnitude of this perpendicular component of force per unit surface area.
 
->[!info]
-A fluid causes an internal pressure on its surface because of the collisions between its molecules and the surface.
+>[!info]+
+>A fluid causes an internal pressure on its surface because of the collisions between its molecules and the surface.
 
 When a fluid is under pressure by some outside object, it will exert a reactionary force.
 $$

@@ -53,6 +53,11 @@ ul,
   }
 }
 
+mjx-container[display="true"] > svg {
+  display: block;
+  margin: auto;
+}
+
 a {
   font-weight: $boldWeight;
   text-decoration: none;
