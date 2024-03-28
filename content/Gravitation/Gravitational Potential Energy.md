@@ -68,8 +68,4 @@ Also known as the *binding energy*.
 
 >[!info]
 >The derivative of gravitational potential energy with respect to $r$ is $F_{g}$, shown:
-> $$
-\begin{align}
-\frac{d}{dr} \frac{GMm}{r}=-\frac{GMm}{r^2}
-\end{align}
-$$
+>$$\begin{align}\frac{d}{dr} \frac{GMm}{r}=-\frac{GMm}{r^2}\end{align}$$
