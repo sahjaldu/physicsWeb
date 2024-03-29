@@ -20,7 +20,7 @@ This website is primarily navigated through links connecting pages together. The
 [[Updates]]
 ## Prerequisites:
 
-In order to properly use this website, you need to have to have taken an introductory physics class and know calculus.
+In order to properly use this website, you need to have to have taken an introductory physics class and know [calculus](https://wizardcalculus.netlify.app/).
 ## About Me:
 
 My name is Sahat Jaldu, currently a high school senior. I made this website as part of my Independent Study and Mentorship class, where students choose a topic, study it, and make an impactful project with a professional in the field guiding them.
