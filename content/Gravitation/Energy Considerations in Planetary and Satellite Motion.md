@@ -20,7 +20,7 @@ K=\frac{GMm}{2r}
 $$
 So the total [[Mechanical Energy]] is:
 $$
-E+K+U=\frac{GMm}{2r}- \frac{GMm}{r} = \boxed{-\frac{GMm}{2r}}
+E=K+U=\frac{GMm}{2r}- \frac{GMm}{r} = \boxed{-\frac{GMm}{2r}}
 $$
 The equation above is still valid for elliptical orbits when we replace $r$ with the semimajor axis $a$.
 
