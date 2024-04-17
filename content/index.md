@@ -28,3 +28,5 @@ My name is [Sahat Jaldu](https://sahatjaldu.netlify.app/), currently a high scho
 If there's any new content you want me to try and put in here, email them to `jaldu.sahat.322@gmail.com`
 
 Physics is a topic that I am curious about, and I hope this website make you curious about it too :)
+
+Hi everyone. ISM and stuff.
