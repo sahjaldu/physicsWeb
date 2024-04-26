@@ -18,7 +18,10 @@
 	2. https://web.mit.edu/8.02-esg/Spring03/www/8.02ch24we.pdf
 ## 2 Conductors, Capacitors, Dielectrics
 
-
+1. [[AP Physics C — Concentric Shells]]
+2. [[Capacitors]]
+3. [[Capacitance]]
+4. [[Dielectrics]]
 ## 3 Electric Circuits
 
 ## 4 Magnetic Fields

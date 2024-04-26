@@ -1,4 +1,14 @@
 - - -
+## 4/25/24
+- Reordered folders
+- Added Capacitance Notes
+
+## 4/2424
+- Ordered Folders
+- Added a "specific classes" folder
+- Added an Electromagnetism folder
+- Added an "AP Physics C page"
+- Added Electrostatics notes.
 ## 3/28/24
 - Bug Fixes
 - Switching to MathJax instead of Katex

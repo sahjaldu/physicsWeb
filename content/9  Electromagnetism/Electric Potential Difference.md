@@ -17,7 +17,7 @@ And we can relate to Electric Field, just as we can relate Electric Force to Ele
 $$
 \Delta V=-\int \vec{E} \cdot d\vec{r} 
 $$
-Electric Potential is measured in $\mathrm{V / C}$ (Volts per Coulombs).
+Electric Potential is measured in $\mathrm{J / C}$ (Joules per Coulombs) or $V$ (Volts)
 
 [[Equipotential Lines]] show the potential difference field in a system.
 
