@@ -13,11 +13,15 @@ We can relate to [[Electrical Potential Energy]]:
 $$
 \Delta U_{E}=q\Delta V
 $$
-And we can relate to Electric Field, just as we can relate Electric Force to Electric Potential Energy:
+We can rearrange this to create another definition for potential difference as the [[Work]] per unit charge.
+$$
+\Delta V=\frac{\Delta U_{E}}{q}
+$$
+We can relate potential difference to Electric Field, just as we can relate Electric Force to Electric Potential Energy:
 $$
 \Delta V=-\int \vec{E} \cdot d\vec{r} 
 $$
-Electric Potential is measured in $\mathrm{J / C}$ (Joules per Coulombs) or $V$ (Volts)
+Electric Potential is measured in $\mathrm{J / C}$ (Joules per Coulombs) or $V$ (Volts). In circuits, we usually refer to potential difference as voltage.
 
 [[Equipotential Lines]] show the potential difference field in a system.
 

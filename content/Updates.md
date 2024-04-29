@@ -1,9 +1,11 @@
 - - -
+## 4/29/24
+- Added Circuits Notes
 ## 4/25/24
 - Reordered folders
 - Added Capacitance Notes
 
-## 4/2424
+## 4/24/24
 - Ordered Folders
 - Added a "specific classes" folder
 - Added an Electromagnetism folder

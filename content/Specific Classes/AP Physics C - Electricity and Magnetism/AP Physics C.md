@@ -24,6 +24,18 @@
 4. [[Dielectrics]]
 ## 3 Electric Circuits
 
+
+1. [[Current]]
+2. [[Resistance]]
+	1. [[Resistivity]]
+3. [[Ohm's Law]]
+4. [[Electric Power]]
+5. [[Circuits]]
+6. [[Series Circuits]]
+7. [[Parallel Circuits]]
+8. [[Kirchhoff's Laws]]
+9. [[RC Circuits]]
+
 ## 4 Magnetic Fields
 
 ## 5 Electromagnetism
