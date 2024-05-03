@@ -1,4 +1,4 @@
-Electric Flux $\phi$ is the amount of [[Electric Field]] lines flowing through an area. Mathematically, this is represented as:
+Electric Flux $\phi$ is the amount of [[The Electric Field]] lines flowing through an area. Mathematically, this is represented as:
 $$
 \phi=\vec{E}\cdot \vec{A}
 $$
@@ -10,7 +10,7 @@ For example, the flux in example 1 is greater than the flux at example 2. Becaus
 $$
 \phi=\left| E \right| \cos\theta \left| A \right| 
 $$
-We only look at the portion of the [[Electric Field]] parallel to the area vector.
+We only look at the portion of [[The Electric Field]] parallel to the area vector.
 
 For curved surfaces, the area vector will be changing from place to place along the curved surface. So, we can use an integral to represent that variation:
 $$

@@ -65,7 +65,8 @@ E (4\pi r^2) &= \frac{\rho V_{\text{enc}}}{\epsilon_{0}} \\
 E&=\frac{\rho}{4\pi r^2\epsilon_{0}} \left( \frac{4}{3} \pi r^3\right) \\
 &=\frac{\rho r}{3\epsilon_{0}} \\
 &=\frac{r}{3\epsilon_{0}}\left( \frac{Q}{\frac{4}{3} \pi R^3} \right) \\
-&=\boxed{ \frac{Qr}{4\pi\epsilon_{0}R^3} }
+&=\boxed{ \frac{Qr}{4\pi\epsilon_{0}R^3} } \\
+&=\boxed{\frac{kQr}{R^3}}
 \end{align}
 $$
 
@@ -84,6 +85,7 @@ E(2\pi rl)&=\frac{\rho V_{\text{enc}}}{\epsilon_{0}} \\
 E&=\frac{\rho}{2\pi rl\,\epsilon_{0}}(\pi r^2l) \\
 &=\frac{\rho r}{2\epsilon_{0}} \\
 &=\frac{r}{2\epsilon_{0}}\left( \frac{Q}{\pi R^2l} \right) \\
-&=\boxed{\frac{Qr}{2\pi R^2l\epsilon_{0}}}
+&=\boxed{\frac{Qr}{2\pi R^2l\epsilon_{0}}} \\
+&=\boxed{\frac{2kQr}{R^2l}}
 \end{align}
 $$

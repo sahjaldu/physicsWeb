@@ -71,7 +71,7 @@ In other words, the [[Potential Energy]] stored in a Capacitor is:
 $$
 U=\frac{1}{2}CV^2=\frac{1}{2} \frac{Q^2}{C}=\frac{1}{2}QV
 $$
-We can also find the Energy Density in the [[Electric Field]] between the Plates:
+We can also find the Energy Density in [[The Electric Field]] between the Plates:
 $$
 \begin{align}
 C_{0}&=\frac{\epsilon_{0}A}{d} \\

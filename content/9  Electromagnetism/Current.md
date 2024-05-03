@@ -24,7 +24,7 @@ And:
 - $t$ is the time needed for the charge to move over $d$
 - $v_{d}$ is the drift velocity, the average velocity of the charge carriers (since they don't move in straight lines; they also bump around, speed up/slow down, etc.)
 
-We can also define current as Current Density $J$, current per cross sectional area:
+We can also define current as Current Density $J$, current per cross sectional area: ^8f066f
 $$
 \begin{align}
 J&=\frac{I}{A} \\

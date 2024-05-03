@@ -3,7 +3,7 @@
 
 This isn't to be confused with [[Electrical Potential Energy]]. Electric Potential Difference [^1] has to do with the general potential energy based on this particle on space around it.
 
-The relationship between [[Coulomb's Law|Electric Force]] and [[Electric Field]] is the same as the relationship between [[Electrical Potential Energy]] and Potential Difference.
+The relationship between [[Coulomb's Law|Electric Force]] and [[The Electric Field]] is the same as the relationship between [[Electrical Potential Energy]] and Potential Difference.
 
 The equation for the electric potential is:
 $$

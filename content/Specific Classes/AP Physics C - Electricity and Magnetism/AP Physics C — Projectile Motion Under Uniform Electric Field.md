@@ -1,6 +1,6 @@
 ![[Pasted image 20240423182214.png]]
 
-The image above depicts a proton of mass $m_{p}$ and charge $e$ being launched with a velocity $v_{0}$ into an [[Electric Field]] $E$ being created by two charged plates with length $L$ and distance apart $W$.
+The image above depicts a proton of mass $m_{p}$ and charge $e$ being launched with a velocity $v_{0}$ into an [[The Electric Field|Electric Field]] $E$ being created by two charged plates with length $L$ and distance apart $W$.
 
 >[!question]
 >Create an equation for the trajectory of the particle.

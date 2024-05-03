@@ -1,4 +1,4 @@
-The Electric Field is "the physical field that surrounds electrically charged particles" (Wikipedia).
+The Electric Field $\vec{E}$ is "the physical field that surrounds electrically charged particles" (Wikipedia).
 
 [[Coulomb's Law]] describes the electric force of one electrically charge particle on another. The electric field is similar, but describes the general effect of one particle on space in general.
 $$

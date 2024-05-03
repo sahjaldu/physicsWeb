@@ -1,6 +1,6 @@
 ![[Pasted image 20240424163824.png]]
 
-Find the [[Fundamental Law of Charges|Charge]], [[Electric Field]], and [[Electric Potential Difference]] a distance $R$ away from the charged Arc.
+Find the [[Fundamental Law of Charges|Charge]], [[The Electric Field]], and [[Electric Potential Difference]] a distance $R$ away from the charged Arc.
 
 ## Charge
 

@@ -1,4 +1,6 @@
 - - -
+## 5/2/24
+- Added Magnetic Fields Notes
 ## 4/29/24
 - Added Circuits Notes
 ## 4/25/24

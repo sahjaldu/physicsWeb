@@ -16,7 +16,7 @@ Simultaneously, electrons leave the second plate and move towards the battery, l
 Note that because electrons enter the first plate and leave the second plate, the total charge in the capacitor remains the same. *Capacitors do not store charge. Capacitors store electrical energy.*
 
 Because of the difference in charge between the plates:
-1. There is an [[Electric Field]] from the positive plate to the negative plate.
+1. There is an [[The Electric Field|Electric Field]] from the positive plate to the negative plate.
 2. The [[Electric Potential Difference]] between the plates increases.
 
 Even if we disconnect the battery or open the switch, the electrons will remain in the same configuration. The only difference to move the electrons is between the plates, and the electrons cannot cross the plates. Therefore, the capacitor can maintain and store its Electric Field and Potential Difference.

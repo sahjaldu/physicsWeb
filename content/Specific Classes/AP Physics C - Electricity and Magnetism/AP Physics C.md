@@ -4,7 +4,7 @@
 2. [[Coulomb's Law]]
 	1. [[AP Physics C — Coulomb's Law Problems]]
 3. [[AP Physics C — Charging]]
-4. [[Electric Field]]
+4. [[The Electric Field]]
 	1. [[AP Physics C — Projectile Motion Under Uniform Electric Field]]
 5. [[Electrical Potential Energy]]
 6. [[Electric Potential Difference]]
@@ -24,7 +24,6 @@
 4. [[Dielectrics]]
 ## 3 Electric Circuits
 
-
 1. [[Current]]
 2. [[Resistance]]
 	1. [[Resistivity]]
@@ -35,9 +34,24 @@
 7. [[Parallel Circuits]]
 8. [[Kirchhoff's Laws]]
 9. [[RC Circuits]]
-
 ## 4 Magnetic Fields
 
+1. [[Magnets]]
+2. [[AP Physics C — Magnets and the Magnetic Field]] 
+3. [[Forces on Moving Charges in Magnetic Fields]]
+4. [[AP Physics C — Mass Spectrometer Question]]
+5. [[AP Physics C — Magnetism and Current-Carrying Wires]]
+6. [[Biot-Savart Law]]
+7. [[Ampere’s Law]]
+8. [[AP Physics C — Magnetic Field inside and outside a solenoid]]
+9. [[AP Physics C — Magnetic Field inside and outside a coaxial cable]]
 ## 5 Electromagnetism
 
-## 6 Reviews
+1. [[Magnetic Flux]]
+2. [[Faraday's Law]]
+3. [[Lenz's Law]]
+4. [[AP Physics C — Conductive Bar's Motion on Rails]]
+5. [[Inductance]]
+6. [[Inductors]]
+7. [[LR Circuits]]
+8. [[Maxwell's Equations]]

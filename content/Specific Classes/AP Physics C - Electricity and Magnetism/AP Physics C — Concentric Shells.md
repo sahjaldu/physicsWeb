@@ -1,6 +1,6 @@
 ![[Pasted image 20240425000717.png]]
 
-Find the [[Electric Field]] $\vec{E}$ and [[Electric Potential Difference]] $V(r)$ for:
+Find [[The Electric Field]] $\vec{E}$ and [[Electric Potential Difference]] $V(r)$ for:
 - $r>3R$
 - $2R<r<3R$
 - $R<r<2R$
