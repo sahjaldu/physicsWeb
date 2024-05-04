@@ -14,3 +14,4 @@ It can also be in terms of [[The Electric Field]]:
 $$
 \vec{F}_{E}=q\vec{E}
 $$
+Coulomb's Law is an application of [[Gauss's Law]] for force between two particles.

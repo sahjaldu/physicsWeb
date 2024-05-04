@@ -14,8 +14,12 @@ Typically, when doing circuit problems, we assume that the wire has no [[Resista
 > [!note]+
 > Resistors decrease voltage because they make it harder for electrons to flow, which causes more collisions and uses energy.
 
-
+[[Capacitors]]
+[[Inductors]]
 [[Series Circuits]]
 [[Parallel Circuits]]
 [[Kirchhoff's Laws]]
 [[RC Circuits]]
+[[LR Circuits]]
+[[LC Circuits]]
+[[AP Physics C — LR Circuits Questions]]

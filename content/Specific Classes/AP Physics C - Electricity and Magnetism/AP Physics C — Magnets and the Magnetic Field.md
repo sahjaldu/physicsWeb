@@ -17,6 +17,6 @@ $$
 1\mathrm{G}=1\times 10^{-4}\mathrm{\ T}
 $$
 
-Any moving charge creates (or induces) a magnetic field. Metals that have molecule dipoles aligned, are magnetic.
+Any moving charge creates a magnetic field. Metals that have molecule dipoles aligned, are magnetic.
 
 Charges moving through a wire induces a cylindrical magnetic field around the wire.

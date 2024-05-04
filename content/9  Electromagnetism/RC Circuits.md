@@ -27,6 +27,7 @@ $$
 \ln\left( \frac{\epsilon C-q}{\epsilon C} \right) &= -\frac{1}{RC}t \\
 \frac{\epsilon C-q}{\epsilon C}&=e^{-t / RC} \\
 1 - \frac{q}{\epsilon C}&=e^{-t / RC} \\
+-\frac{q}{\epsilon C} &= 1 + e^{-t / RC}\\
 \Aboxed{q(t)=\epsilon C(1-e^{-t / RC})&=Q(1-e^{-t / \tau})}
 \end{align}
 $$

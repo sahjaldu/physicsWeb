@@ -13,7 +13,7 @@ $$
 - $\vec{v}$ is the velocity of the positive moving charge. (for negative, use the left hand, or just have the force going the opposite direction.)
 - $\vec{B}$ is direction of the magnetic field.
 
-Note that this definition uses the [[Cross Product]] and therefore [[Right-hand Rule]].
+Note that this definition uses the [[Cross Product]] and therefore [[Right-hand Rule]]. ^64483d
 
 In this case:
 
