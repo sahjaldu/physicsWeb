@@ -1,23 +1,32 @@
-The relationship between [[Work]] and [[Energy]] can be shown by:
+## Theorem
+
+The Work Energy Theorem States that
 $$
-\begin{align*}
-W_{\mathrm{net}}&=\vec{F}_{\mathrm{net}}\cdot \vec{s}=m\vec{a}\cdot \vec{s}=m\frac{(\vec{v}_{f}-\vec{v}_{i})}{\Delta v}\cdot \frac{(\vec{v}_{f}+\vec{v}_{i})\Delta t}{2}\\
-&=\frac{1}{2}mv^2_{f}-\frac{1}{2}mv^2_{i} \\
-&=\Delta K
-\end{align*}
+W_\text{net} = \Delta K
 $$
-Work is the change in [[Kinetic Energy]].
->[!Definition]
->$$W=\Delta K$$
+where $K$ is the [[Kinetic Energy]].
 
-Interpreted differently, energy is the "currency" which we "spend" to do work. 
+## Derivation
 
-The work-energy theorem states that:
-> The net work done by the forces acting on a body is equal to the change in the kinetic energy of the body.
+$$
+\begin{align}
+W_\text{net} & = \int_{A}^{B } \vec{F}(\vec{s})\cdot d\vec{s} = \int_{A}^{B }m\vec{a} \cdot  d\vec{s} = m\int_{t_{i}}^{t_{f}} \frac{ d\vec{v} }{ dt } \cdot  \vec{v}\,dt \\
+ & = m \int_{v_{i}}^{v_{f}} \vec{v} \cdot  d\vec{v} = \frac{1}{2} mv_{f}^{2} - \frac{1}{2}mv_{i}^{2} = \Delta K
+\end{align}
+$$
 
-The work-energy theorem is an [[Invariance|invariant]] law, meaning that it is the same in all reference frames. 
+So
+$$
+\boxed{ W_\text{net}  = \int_{A}^{B} \vec{F}(\vec{s})\cdot d\vec{s} = \frac{1}{2}mv_{B}^{2} - \frac{1}{2}mv_{A}^{2} =\Delta K}
+$$
 
-Also, the Work-Energy theorem only applies to individual particles and not [[Systems of Particles]]. Each part of the object should behave in exactly the same way.
+## Interpretation and Information
+
+As shown in the derivation, the work energy theorem is simply Newton's Second Law (See [[Newton's Laws]]) in Energy Form.
+
+The work energy theorem is an invariant law, meaning that it is the same in all reference frames. 
+
+The Work Energy only applies to individual particles and not [[Systems of Particles]]. Each part of the object should behave in exactly the same way.
 
 For example, in a car crash, different parts of the car act differently in response to the crash and there is internal energy moving with the bending of the car, so we cannot apply the Work-Energy Theorem exactly.
 

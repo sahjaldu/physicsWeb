@@ -1,4 +1,7 @@
 - - -
+
+## 5/16/25
+- Updated Notes on Kinematics, Newton's Laws, Work, Rotational Motion, and others.
 ## 5/2/24
 - Added Magnetic Fields Notes
 ## 4/29/24

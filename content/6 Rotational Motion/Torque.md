@@ -1,26 +1,25 @@
-Torque $\vec{\tau}$ is a force applied at an axis. The magnitude of torque about a given axis is defined as:
+For any force applied at an axis, there is an axial component and a tangential component. The tangential part induces rotation, and a force that acts further out on the axis induces more rotation. We call this tangential portion the Torque, $\vec{\tau}$.
 $$
-\vec{\tau}=\vec{r}_{\perp}\vec{F}
+\vec{\tau} = \vec{r} \times \vec{F}
 $$
-Alternatively:
+Here we use the [[Cross Product]].
+
+Or just the magnitude:
 $$
-\vec{\tau}=\vec{r}\vec{F}_{\perp}
+\tau = rF\sin\theta
 $$
-Meaning:
+
+Using the 
 $$
-\vec{\tau}=\vec{r}\vec{F}\sin\theta
-$$
-We can also reason that:
-$$
-\begin{align*}
+\begin{align}
 F&=ma \\
 &=mr\alpha \\
- \\
 \vec{\tau}&=\vec{r}\vec{}F=\vec{r}(mr\alpha) \\
 &=mr^2\vec{\alpha}
-\end{align*}
+\end{align}
 $$
-The quantity $mr^2$ represents the [[Rotational Inertia or Moment of Inertia]], $I$.
+
+The quantity $mr^2$ represents the [[Moment of Inertia]], $I$.
 
 We can see the similarity:
 $$

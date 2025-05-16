@@ -9,12 +9,13 @@ This website is primarily navigated through links connecting pages together. The
 
 ## Topics:
 
-1. [[Systems of Particles]]
-2. [[Rotational Motion]]
-3. [[Static Equilibrium; Elasticity and Fracture]]
-4. [[Work, Power, and Energy]]
-5. [[Fluids]]
-6. [[Gravitation]]
+1. [[Kinematics]]
+2. [[Systems of Particles]]
+3. [[Rotational Motion]]
+4. [[Static Equilibrium; Elasticity and Fracture]]
+5. [[Work, Power, and Energy]]
+6. [[Fluids]]
+7. [[Gravitation]]
 
 Specific Classes:
 1. [[AP Physics C]]
@@ -23,10 +24,10 @@ Specific Classes:
 [[Updates]]
 ## Prerequisites:
 
-In order to properly use this website, you need to have to have taken an introductory physics class and know [calculus](https://wizardcalculus.netlify.app/).
+In order to properly use this website, you need to have to have taken an introductory physics class and know [calculus](https://wizardcalculus.netlify.app/). I will try layer difficulty such that even if you cannot understand everything, you can understand some things.
 ## About Me:
 
-My name is [Sahat Jaldu](https://sahatjaldu.netlify.app/), currently a high school senior. I made this website as part of my Independent Study and Mentorship class, where students choose a topic, study it, and make an impactful project with a professional in the field guiding them.
+My name is [Sahat Jaldu](https://sahatjaldu.netlify.app/), currently a Sophomore Physics and Mathematics Major at Texas A&M. I made this website as part of my Independent Study and Mentorship class in High School, where students choose a topic, study it, and make an impactful project with a professional in the field guiding them. I'm continuing to update it as I continue my degree.
 
 If there's any new content you want me to try and put in here, email them to `jaldu.sahat.322@gmail.com`
 

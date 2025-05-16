@@ -24,7 +24,7 @@ Substituting $r'$ for $r\sin\theta$:
 $$
 l_{z}=mr'^2\omega
 $$
-$mr'^2$ is the [[Rotational Inertia or Moment of Inertia]] of the particle in respect to the $z$ axis:
+$mr'^2$ is the [[Moment of Inertia]] of the particle in respect to the $z$ axis:
 $$
 l_{z}=I\omega
 $$

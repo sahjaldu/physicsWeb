@@ -1,17 +1,14 @@
-Kinetic Energy is energy in movement associated with a particular reference frame
-
-Translational Kinetic Energy
-$\frac{1}{2}mv^2$
-
-Springs:
-$\frac{1}{2}kx^2$
-
-[[Rotational Motion|Rotational]] Kinetic Energy:
+Kinetic [[Energy]] $K$ is energy in movement associated with a particular reference frame. The Kinetic Energy of an object of mass $m$ and velocity $v$ is
 $$
-\begin{align*}
-KE&=\frac{1}{2}mv^2 \\
-&=\frac{1}{2}mr^2\omega^2 \\
-&=\boxed{\frac{1}{2}I\omega^2}
-\end{align*}
+K=\frac{1}{2}mv^{2}
+$$
+Kinetic Energy is a scalar quantity and not a vector quantity, even though velocity is a vector.
+$$
+\begin{align}
+K & = \frac{1}{2}mv^{ 2 } \\
+ & = \frac{1}{2} m\vec{v}\cdot \vec{v} \\
+ & =\frac{1}{2}m(v_{x}^{ 2 }+v_{y}^{ 2 }+v_{z}^{ 2 }) \\
+ & \neq \frac{1}{2}m(v_{x}+v_{y}+v_{z})^{ 2 }
+\end{align}
 $$
 

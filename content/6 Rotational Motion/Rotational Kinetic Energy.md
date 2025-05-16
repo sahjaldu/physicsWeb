@@ -1,21 +1,32 @@
-The [[Kinetic Energy]] for translational motion is $\frac{1}{2}mv^2$. Translating that to [[Rotational Motion]], we get:
+First we can look at [[Kinetic Energy]] in Polar Coordinates (See [[Rotational Motion]])
 $$
-\mathrm{KE}=\frac{1}{2}I\omega^2
+K = \frac{1}{2}mv^{2}  = \frac{1}{2} m(\vec{v} \cdot  \vec{v})
 $$
-Where $I$ is [[Rotational Inertia or Moment of Inertia]].
-
-We can derive this:
+If $\vec{v}=v_{r}\,\hat{r} + v_{\theta}\,\hat{\theta}$, then $\vec{v} \cdot \vec{v}=v_{r}^{2}+v_{\theta}^{2}$
 $$
-\begin{align*}
-\mathrm{KE}&=\frac{1}{2}mv^2 \\
+\begin{align}
+K & = \frac{1}{2}m(v_{r}^{2} + v_{\theta}^{2}) \\
+ & = \frac{1}{2}m \left[ \left( \frac{ dr }{ dt }  \right)^{2} + (r\omega)^{2} \right] \\
+ & = \frac{1}{2}m \left( \frac{ dr }{ dt }  \right)^{2} + \frac{1}{2}m r^{2}\omega^{2} 
+\end{align}
+$$
+Notice that $mr^{2}$ is the [[Moment of Inertia]] $I$. So
+$$
+\boxed{ K = \frac{1}{2}m\left( \frac{ dr }{ dt }  \right)^{2} + \frac{1}{2}I\omega^{2} }
+$$
+In the case where radius is constant, we have just $\displaystyle K = \frac{1}{2}I\omega^{2}$. We can actually find this from regular Kinetic Energy.
+$$
+\begin{align}
+K&=\frac{1}{2}mv^2 \\
 &=\frac{1}{2}mr^2\omega^2 \\
 &=\frac{1}{2}I\omega^2
-\end{align*}
+\end{align}
 $$
-For an object experiencing both translational and rotational motion, such as a circle rolling down a slope, the kinetic energy is just the combination of both.
+Kinetic Energy is additive, meaning that
 $$
-\mathrm{KE}=\frac{1}{2}Mv^2_{\mathrm{CM}}+\frac{1}{2}I_{\mathrm{CM}}\omega^2
+K_\text{tot} = \sum_{i=0}^{N} K_{i} = K_{0}+K_{1}+K_{2}+\dots K_{N}
 $$
-where $\mathrm{CM}$ is the center of mass of the object.
-
-For an object moving about another object moving about an axis, to find the kinetic energy, we would just find the kinetic energy of both, similar to before.
+So in a situation such as a ball rolling down a hill, all we have to do is add the kinetic energies of each part of the problem. Since the ball has constant radius, the rotational portion is simply $\displaystyle K_\text{rot} = \frac{1}{2}I\omega^{2}$. The other portion is translational using the center of mass (see [[Systems of Particles]]).
+$$
+K_\text{tot} = \frac{1}{2}I\omega^{2} + \frac{1}{2} m_\text{cm}v^{2}
+$$

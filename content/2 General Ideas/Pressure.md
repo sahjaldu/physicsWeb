@@ -4,3 +4,7 @@
 >$$P=\frac{F}{A}$$
 
 The SI unit of pressure is $\mathrm{N} / \mathrm{m}^2$ or a **Pascal**.
+
+Related:
+[[Fluid Statics#Pressure|Pressure and Fluids]]
+

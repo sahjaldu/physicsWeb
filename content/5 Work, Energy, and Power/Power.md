@@ -10,7 +10,11 @@ If power is constant in time:
 $$
 W=Pt
 $$
-The $\mathrm{SI}$ unit for power is the Joule per second, or Watt($\mathrm{W}$). In engines, we use Horsepower $\mathrm{hp}$.
+Power has units of $[m][l]^{ 2 } / [t]^{ 3 }$. In SI this is Watts where 
+$$
+1\mathrm{\ W}=1\mathrm{\ J / s}=1\mathrm{\ Nm / s}=1\mathrm{\ kg\ m^{ 2 }s^{ -2 }}
+$$
+In engines, we use Horsepower $\mathrm{hp}$.
 
 Power can also be defined as:
 $$

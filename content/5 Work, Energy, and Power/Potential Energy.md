@@ -9,7 +9,34 @@ We take the inverse to find the force:
 $$
 \vec{F}(\vec{s})=-\frac{dU(\vec{s})}{dx}
 $$
+### Potential Energy of Many Particle Systems
 
+Interpreted differently, imagine we have two particles who start separated by an infinitely large distance at rest.
+
+Let's consider [[Gravitation]] as an example force in this scenario.
+
+When we bring the two particles together at a constant velocity until the separation is a distance $r$ apart, we can model them as:
+$$
+\begin{align}
+W_{\mathrm{net}}=W_{\mathrm{ext}}+W_{\mathrm{grav}}=0 \\
+W_{\mathrm{grav}}=W_{\infty r}=\frac{GMm}{r}
+\end{align}
+$$
+Where $\frac{GMm}{r}$ is the work done by gravitation. The work that we apply, $W_{\mathrm{ext}}$, is:
+$$
+W_{\mathrm{ext}}=-W_{\mathrm{grav}}=-\frac{GMm}{r}
+$$
+Which is our equation for gravitational potential energy, which we derive in [[Gravitational Potential Energy]]. We can say that:
+
+> The potential energy of a system of particles is equal to the work done by an external agent to assemble the system, starting from the standard reference configuration.
+
+(Physics 5th Edition, Halliday, Resnick, Krane)
+
+In other words, potential energy can be defined as the work needed to bring the [[Systems of Particles|system]] in its current configuration from a "default" configuration.
+
+In our case, the standard reference configuration is the initial infinite separation.
+
+This holds for a system containing more than two particles. We can calculative potential energy
 ## Conservation of Mechanical Energy
 
 For an isolated system for only conservative forces:
