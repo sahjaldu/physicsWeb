@@ -28,22 +28,31 @@ We can also use this to find the [[AP Physics C — Magnetism and Current-Carryi
 ![[Pasted image 20240502233307.png]]
 
 We establish a point $P$ in which we calculate the magnetic field on. Also, we use $d\vec{l} \times \hat{r} = dl\sin\theta$.
+We establish a point $P$ in which we calculate the magnetic field on. Also, we use $d\vec{l} \times \hat{r} = dl\sin\theta$.
 $$
 \begin{align}
 \vec{B} &= \int_{-\infty}^\infty d\vec{B} \\
 &=2\int_{0}^{\infty} d\vec{B} \\
 &=2\int_{0}^{\infty} \frac{\mu_{0}I}{4\pi r^2} \sin\theta\, dl  \\
 &=\frac{2\mu_{0}I}{4\pi}\int_{0}^{\infty} \frac{dl\,\sin\theta}{r^2} \\
-  \\
+\end{align}
+$$
+
+$$
+\begin{aligned}
 \sin\theta &= \frac{R}{r} \\
 r &= \frac{R}{\sin\theta} \\
 r^2 &= \frac{R^2}{\sin^2\theta} \\
+\end{aligned} \hspace{ 0.3in } \begin{align}
 \tan\theta &= \frac{R}{l} \\
 l&= \frac{R}{\tan \theta} \\
 &=R\cot\theta \\
 dl&=-R\csc^2 \theta \,d\theta \\
 &= -\frac{R}{\sin^2\theta}d\theta \\
- \\
+\end{align}
+$$
+$$
+\begin{align}
 \vec{B} &=\frac{\mu_{0}I}{2\pi} \int_{0}^{\infty} -\frac{R}{\sin^2 \theta} d\theta \sin\theta \left( \frac{\sin^2\theta}{R^2} \right) \\
 &=\frac{\mu_{0}I}{2\pi} \int_{0}^\infty -\frac{\sin\theta}{R} \, d\theta  \\
 &=-\frac{\mu_{0}I}{2\pi R} \int_{\pi / 2}^0 \sin\theta \, d\theta \\
@@ -51,3 +60,4 @@ dl&=-R\csc^2 \theta \,d\theta \\
 \Aboxed{ \vec{B} &= \frac{\mu_{0}I}{2\pi R} }
 \end{align}
 $$
+

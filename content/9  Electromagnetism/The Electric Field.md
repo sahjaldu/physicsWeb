@@ -12,5 +12,8 @@ Another interpretation is that it is just [[Coulomb's Law]], but the charge of $
 
 Electric Field is in $\mathrm{C/N}$ (Coulomb's Per Newton).
 
+Just like Electric Force, the total electric force at some point is the sum of all the sources of electric field at that point. This is the principle behind finding the electric field from [[Distributed Charges on Objects]].
+
+
 ![[Pasted image 20240423174110.png]]
 

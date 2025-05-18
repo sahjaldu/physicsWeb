@@ -7,7 +7,7 @@
 4. [[The Electric Field]]
 	1. [[AP Physics C — Projectile Motion Under Uniform Electric Field]]
 5. [[Electrical Potential Energy]]
-6. [[Electric Potential Difference]]
+6. [[Electric Potential]]
 	1. [[AP Physics C — Arc of Charge]]
 	2. [[AP Physics C — Ring of Charge]]
 	3. [[AP Physics C — Disk of Charge]]
@@ -37,8 +37,8 @@
 ## 4 Magnetic Fields
 
 1. [[Magnets]]
-2. [[AP Physics C — Magnets and the Magnetic Field]] 
-3. [[Forces on Moving Charges in Magnetic Fields]]
+2. [[The Magnetic Field]] 
+3. [[Magnetic Force]]
 4. [[AP Physics C — Mass Spectrometer Question]]
 5. [[AP Physics C — Magnetism and Current-Carrying Wires]]
 6. [[Ampere’s Law]]

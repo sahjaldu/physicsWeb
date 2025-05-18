@@ -9,3 +9,9 @@ The inverse of resistivity is conductivity:
 $$
 \sigma=\frac{1}{\rho}
 $$
+Resistivity and conductivity can be related to [[The Electric Field|Electric Field]]:
+$$
+\begin{align}
+\vec{E} & = \rho \vec{j} \implies \vec{j} = \sigma \vec{E}
+\end{align}
+$$

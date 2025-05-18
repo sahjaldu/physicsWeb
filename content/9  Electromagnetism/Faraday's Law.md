@@ -19,3 +19,27 @@ $$
 &=\boxed{ -Bhv }
 \end{align}
 $$
+**Example.** A rod with no resistance can slide on two frictionless, resistance free rails. The rails are connected by a capacitor, capacitance $C$ as shown. There is an infinitely long wire carrying a constant current $i_{0}$ as shown. The rod is moved by some external force so thaht its velocity along the rails is given by $v_{x}=\alpha t$ where $\alpha$ is a known constant. Ignoring self inductance fund the charge on the capacitor plates as a function of time. What is the direction of the magnetic force exerted on the rod?
+
+![[Faraday's Law Example 2.png]]
+
+First we will note that
+$$
+\vec{B} = \frac{\mu_{0}i_{0}}{2\pi r},\hspace{ 0.4in } x=vt+x_{0}=\alpha t^{2}+x_{0}
+$$
+Now we use faraday's law.
+$$
+\begin{align}
+\oint \vec{E} \cdot d\vec{r}  & = -\frac{d}{dt}  \iint \vec{B} \cdot  d\vec{S} \\
+\frac{Q}{C} & = -\frac{d}{dt}  \int_{D}^{D+W} \int_{0}^{x} \frac{\mu_{0}i_{0}}{2\pi r} \, dx \, dy \\
+ & = - \frac{d}{dt} \int_{D}^{D+W} \frac{\mu_{0}i_{0}}{2\pi r}x \, dy \\
+ & = -\frac{d}{dt}  \left[ \frac{\mu_{0}i_{0}}{2\pi }\ln\left( \frac{D+W}{D}\right) (\alpha t^{2}+x_{0})  \right] \\
+ & = - \frac{\mu_{0}i_{0}}{2\pi} \ln\left( \frac{D+W}{D}  \right)2\alpha t \\
+\Aboxed{ Q(t) & = \frac{\mu_{0}i_{0}}{2\pi} \ln\left( \frac{D+W}{D} \right) 2\alpha t }
+\end{align}
+$$
+The current is counterclockwise through the loop, so it is moving up in the rod. The magnetic field is out of the page. Using,
+$$
+d\vec{F} = i\,d\vec{s} \times \vec{B}
+$$
+We find the direction of the magnetic force exerted on the rod is to the left.

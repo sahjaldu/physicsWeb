@@ -10,7 +10,7 @@ $$
 >[!question]
 >Determine the magnitude of the initial change in current in the inductor.
 
-Since Resistor 2 and the Inductor are parallel, we can set their [[Electric Potential Difference|Voltage]] equal to each other.
+Since Resistor 2 and the Inductor are parallel, we can set their [[Electric Potential|Voltage]] equal to each other.
 $$
 \begin{align}
 V_{R_{2}}&=V_{I} \\

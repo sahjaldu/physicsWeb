@@ -7,7 +7,7 @@ For example:
 
 For sides $X$ and $Z$, the force is zero because the current and magnetic field are parallel.
 
-For side $W$ and $Y$, we can use the [[Forces on Moving Charges in Magnetic Fields#^64483d|Right Hand Rule]] to find the force. $W$ has a force going into the page and $Y$ has a force going out of the page.
+For side $W$ and $Y$, we can use the [[Magnetic Force#^64483d|Right Hand Rule]] to find the force. $W$ has a force going into the page and $Y$ has a force going out of the page.
 
 We now see that the forces cancel ($F_{\mathrm{net}}=0$) but the torques do not. There is a net torque in this situation.
 

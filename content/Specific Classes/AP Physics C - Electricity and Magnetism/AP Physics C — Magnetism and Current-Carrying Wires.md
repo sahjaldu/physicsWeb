@@ -1,6 +1,6 @@
 ## Deriving the Equation
 
-Since [[Forces on Moving Charges in Magnetic Fields|Charge in a Magnetic Field Experiences a force]] $\vec{F}_{B}=q\vec{v}\times \vec{B}$, we can use this on the moving charges ([[Current]]) in a wire.
+Since [[Magnetic Force|Charge in a Magnetic Field Experiences a force]] $\vec{F}_{B}=q\vec{v}\times \vec{B}$, we can use this on the moving charges ([[Current]]) in a wire.
 
 Let's derive the equation for the force on a wire.
 
@@ -76,7 +76,7 @@ For example
 
 We use the rotational right hand rule and reason the magnetic field of each wire on the other:
 ![[Pasted image 20240502190124.png]]
-We then use the regular [[Right-hand Rule]] to [[Forces on Moving Charges in Magnetic Fields|reason the Magnetic Force]]:
+We then use the regular [[Right-hand Rule]] to [[Magnetic Force|reason the Magnetic Force]]:
 
 ![[Pasted image 20240502190625.png]]
 

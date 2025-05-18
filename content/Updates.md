@@ -1,5 +1,8 @@
 - - -
 
+## 5/17/25
+- Updated Notes on Electromagnetism
+
 ## 5/16/25
 - Updated Notes on Kinematics, Newton's Laws, Work, Rotational Motion, and others.
 ## 5/2/24

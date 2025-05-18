@@ -11,7 +11,7 @@ Inductance is measured in Henrys ($\mathrm{H}$)
 
 Inductors in [[Circuits]] oppose change in the current of the circuit. Therefore, they are used in surge protectors, slowing down any rapid change in the current from a power surge.
 
-The basic relationship between [[Electric Potential Difference|Voltage]], current, and inductance is:
+The basic relationship between [[Electric Potential|Voltage]], current, and inductance is:
 $$
 \epsilon=V=-L \frac{dI}{dt}
 $$

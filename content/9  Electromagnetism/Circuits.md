@@ -4,7 +4,7 @@ This is an example circuit with a battery, resistor, and ground. Note that the c
 
 ![[diagram-20240427.svg]]
 
-$\epsilon$ here is the Electromotive force, which represents the ideal [[Electric Potential Difference|Voltage]] across the battery terminals. ^b61b64
+$\epsilon$ here is the Electromotive force, which represents the ideal [[Electric Potential|Voltage]] across the battery terminals. ^b61b64
 
 In the circuit above, positive charges start at the positive terminal with $\epsilon$ [[Electrical Potential Energy|Electric Energy]], then lose all of that energy as it moves across the resistor (there is a drop in voltage.) When it reaches the negative terminal of the battery, it will have 0 electric energy.
 

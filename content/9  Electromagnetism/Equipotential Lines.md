@@ -1,6 +1,6 @@
 Equipotential Line Graphs are like a contour map, but they show potential difference rather than elevation.
 
-- Moving a potential charge to a higher potential is like moving a mass to a high altitude. The [[Electric Potential Difference]] is like height, and the electric field is like steepness.
+- Moving a potential charge to a higher potential is like moving a mass to a high altitude. The [[Electric Potential]] is like height, and the electric field is like steepness.
 - Positive charges tend to accelerate towards a lower potential (like a ball rolling down a hill), and negative charges tend to accelerate towards a higher potential (like a ball with negative mass rolling up a hill lol).
 - [[The Electric Field|Electric Field]] lines (black) are always perpendicular to Equipotential Lines (gold).
 

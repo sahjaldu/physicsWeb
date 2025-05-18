@@ -13,7 +13,7 @@
 >[!answer]- Answer (b)
 >In the initial vertical section, the velocity $\vec{v}$ is downwards and $\vec{B}$ is into the page (from the prev problem). Using right hand rule, we know that $\vec{F}_{B}$ will point to the right.
 >
->In order to counteract that effect and keep the velocity downwards, [[The Electric Field]] needs to point to the left. Therefore, Plate $K$ should have negative voltage ($\vec{E}$ points from high to low [[Electric Potential Difference]])
+>In order to counteract that effect and keep the velocity downwards, [[The Electric Field]] needs to point to the left. Therefore, Plate $K$ should have negative voltage ($\vec{E}$ points from high to low [[Electric Potential]])
 
 >[!question]- Question (c)
 >Calculate the magnitude of the electric field between the two plates.

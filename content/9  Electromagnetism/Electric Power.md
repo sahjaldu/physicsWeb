@@ -1,21 +1,35 @@
-Electrical [[Power]] is the rate at which [[Electrical Potential Energy]] is used in a [[Circuits|Circuit]].
+Power is the time it takes [[Work]] to happen, or the rate at which work is done:
+$$
+P_{\mathrm{av}}=\frac{W}{t}
+$$
+Instantaneously:
+$$
+P=\frac{ dW }{ dt } 
+$$
+If power is constant in time:
+$$
+W=Pt
+$$
+Power has units of $[m][l]^{ 2 } / [t]^{ 3 }$. In SI this is Watts where 
+$$
+1\mathrm{\ W}=1\mathrm{\ J / s}=1\mathrm{\ Nm / s}=1\mathrm{\ kg\ m^{ 2 }s^{ -2 }}
+$$
+In engines, we use Horsepower $\mathrm{hp}$.
 
-For example, if energy is lost through a [[Resistance|Resistor]], or a lightbulb, etc. Power is how fast energy is lost in that component.
-
-Deriving the equation for power:
+Power can also be defined as:
 $$
 \begin{align}
-\frac{dq}{dt}&=I \\
-dq&=I\,dt \\
-q&=\int I \, dt \\
-\Delta U&=q\Delta V \\
-&=\int I \, dt  \\
-\frac{dU}{dt}&=I\Delta V \\
-\Aboxed{ P&=I\Delta V }
+P&=\frac{ dW }{ dt } \\
+&=\frac{\vec{F}\cdot d\vec{s}}{dt} \\
+&=\vec{F}\frac{ d\vec{s} }{ dt }  \\
+P&=\vec{F}\cdot \vec{v}
 \end{align}
 $$
-
-We can use [[Ohm's Law]] for more variables that we can use:
+For [[Rotational Motion]]:
 $$
-P=I\Delta V=I^2R=\frac{V^2}{R}
+\begin{align}
+P&=\frac{ dW }{ dt } \\
+&=\frac{\tau \cdot d\theta}{dt} \\
+\Aboxed{P&=\tau \cdot\omega}
+\end{align}
 $$

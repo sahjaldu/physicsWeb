@@ -21,8 +21,14 @@ We can relate potential difference to Electric Field, just as we can relate Elec
 $$
 \Delta V=-\int \vec{E} \cdot d\vec{r} 
 $$
-Electric Potential is measured in $\mathrm{J / C}$ (Joules per Coulombs) or $V$ (Volts). In circuits, we usually refer to potential difference as voltage.
+Or
+$$
+\vec{E} = -\vec{\nabla}V
+\implies E_{x} =- \frac{ \partial V }{ \partial x } ,E_{y} = - \frac{ \partial V }{ \partial y } , E_{z} = -\frac{ \partial V }{ \partial z } 
+$$
+Electric Potential is measured in $\mathrm{J / C}$ (Joules per Coulombs) or $\mathrm{V}$ (Volts). In circuits, we usually refer to potential difference as voltage.
 
 [[Equipotential Lines]] show the potential difference field in a system.
+
 
 [^1]:(otherwise seen as potential/potential difference/electric potential/difference).
